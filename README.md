@@ -19,3 +19,5 @@ following http://www.nodebeginner.org step by step to build a simple pic-upload 
 10/18/2012 - 
              
              execute "npm install formidable" to install formidable package, which processes POST data. Do not add content of it into repo.
+             
+             Complete picture upload & display function. fs.rename cannot move a file among different partition.
