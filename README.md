@@ -15,3 +15,7 @@ following http://www.nodebeginner.org step by step to build a simple pic-upload 
 08/31/2012 - 
 
              ./upload can display the text input in ./start. Encoded in UTF-8.
+
+10/18/2012 - 
+             
+             execute "npm install formidable" to install formidable package, which processes POST data. Do not add content of it into repo.
